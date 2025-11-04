@@ -1,6 +1,6 @@
 # hi i am vatsal a developer
-# 💫 About Me:
-🔭 I’m currently working on<br>→ Building AI-powered chatbots, full-stack web applications, and tech automation tools.<br><br>🤝 I’m looking to collaborate on<br>→ Open-source projects, mobile apps using Flutter, and innovative full-stack solutions.<br><br>🧠 I’m looking for help with<br>→ Scaling web apps, optimizing backend performance, and mastering Flutter.<br><br>🌱 I’m currently learning<br>→ Flutter, Dart, and sharpening my backend development skills.<br><br>💬 Ask me about<br>→ Frontend, backend, APIs, chatbots, and anything full-stack web dev related.<br><br>⚡ Fun fact<br>→ I love blending frontend creativity with backend logic to build seamless user experiences.
+#  About Me:
+ I’m currently working on<br>→ Building AI-powered chatbots, full-stack web applications, and tech automation tools.<br><br> I’m looking to collaborate on<br>→ Open-source projects, mobile apps using Flutter, and innovative full-stack solutions.<br><br> I’m looking for help with<br>→ Scaling web apps, optimizing backend performance, and mastering Flutter.<br><br> I’m currently learning<br>→ Flutter, Dart, and sharpening my backend development skills.<br><br>💬 Ask me about<br>→ Frontend, backend, APIs, chatbots, and anything full-stack web dev related.<br><br> Fun fact<br>→ I love blending frontend creativity with backend logic to build seamless user experiences.
 
 
 # 💻 Tech Stack:
